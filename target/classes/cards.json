@@ -1,0 +1,10 @@
+[
+  {
+    "location": "school",
+    "roles": ["teacher", "director", "student"]
+  },
+  {
+    "location": "spatial station",
+    "roles": ["biologic scientist", "spatial scientist", "technician", "astronaut"]
+  }
+]
